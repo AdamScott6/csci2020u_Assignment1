@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Bus"},{"p":"<Unnamed>","l":"Car"},{"p":"<Unnamed>","l":"Motorcycle"},{"p":"<Unnamed>","l":"Truck"},{"p":"<Unnamed>","l":"Vehicle"},{"p":"<Unnamed>","l":"VehicleFactory"},{"p":"<Unnamed>","l":"VehicleFactoryDemo"}];updateSearchResults();
